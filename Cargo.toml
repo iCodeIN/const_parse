@@ -1,7 +1,7 @@
 [package]
 name = "const_parse"
 description = "Parses *any* input string into a `u128` value."
-version = "1.0.0"
+version = "1.0.1-alpha.0"
 authors = ["Lokathor <zefria@gmail.com>"]
 edition = "2018"
 license = "Zlib OR Apache-2.0 OR MIT"
