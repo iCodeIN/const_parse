@@ -1,6 +1,6 @@
 #![no_std]
 
-//! Provides `const fn` for parsing (currently `u128` only).
+//! Provides `const fn` for parsing.
 
 /// Parses the input into a `u128` value.
 ///
